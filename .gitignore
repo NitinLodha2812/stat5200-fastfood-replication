@@ -1,0 +1,16 @@
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+__pycache__/
+*.aux
+*.log
+*.out
+*.toc
+
+# kept on my computer only
+authors_package/
+paper/
+presentation/build_slides.py
+presentation/speaker_script.tex
+presentation/paper_presentation_template.pptx

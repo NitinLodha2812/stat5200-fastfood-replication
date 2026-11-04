@@ -1,0 +1,5 @@
+Downloaded on 2026-11-04
+QCEW: https://data.bls.gov/cew/data/api/YEAR/QTR/industry/CODE.csv, statewide rows only
+QWI: https://lehd.ces.census.gov/data/qwi/R2026Q2/ST/qwi_ST_se_f_gs_LEVEL_op_u.csv.gz
+     rows with sex 0, agegrp A00, education E0, all firm ages and sizes, 2015 on
+CPI: https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCNS

@@ -1,0 +1,15 @@
+"group","label","est","p"
+"Paper, 8 estimates","DD, all states",-2.88923197218332,0.0204081632653061
+"Paper, 8 estimates","DD, non-increasers",-3.23098874686312,0.0434782608695652
+"Paper, 8 estimates","DDD, all states",-2.18584759596348,0.0816326530612245
+"Paper, 8 estimates","DDD, non-increasers",-2.53743539372458,0.0869565217391304
+"Paper, 8 estimates","Detrended DD, all states",-3.37942988767383,0.0612244897959184
+"Paper, 8 estimates","Detrended DD, non-increasers",-3.58051673992095,0.0434782608695652
+"Paper, 8 estimates","Detrended DDD, all states",-3.52412817763683,0.122448979591837
+"Paper, 8 estimates","Detrended DDD, non-increasers",-3.8952026692942,0.130434782608696
+"Full-service control","DDD with full-service, all states",-0.458594008850611,0.387755102040816
+"Full-service control","DDD with full-service, non-increasers",-0.587771338098122,0.391304347826087
+"Base month","DD, base Dec 2023",-2.12405150807555,0.122448979591837
+"Base month","DD, base Mar 2024",-1.23872473838415,0.224489795918367
+"Synthetic control","Synthetic, pre Sep 2021 to Sep 2023",-3.28259772398881,0.0408163265306122
+"Synthetic control","Synthetic, pre Jan 2015 to Sep 2023",-2.74632753318856,0.0408163265306122

@@ -1,0 +1,9 @@
+"table","numbers","match","largest_gap"
+"Tables 1, 2: QCEW, 1 year",64,64,0.005
+"Tables 3, 4: QCEW, 2 years, current data",64,20,0.233
+"Tables 3, 4: QCEW, 2 years, authors' data",64,64,0.005
+"Tables 5, 6: QWI, 1 year",64,64,0.005
+"Tables 7, 8: QWI, 2 years",64,64,0.005
+"Tables A3, A4: QWI, Q4 base",64,64,0.005
+"Table A1: QCEW job counts",8,8,0
+"Table A2: QWI job counts",8,8,0
