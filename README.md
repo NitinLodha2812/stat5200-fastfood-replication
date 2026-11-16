@@ -35,7 +35,7 @@ data/raw/          data exactly as downloaded
 data/clean/        state panels built from the raw data
 results/tables/    every table as a CSV with the published number next to mine
 results/figures/   every figure as a PDF
-presentation/      my slides and the speaker script
+presentation/      my slides with the narration in the notes
 ```
 
 The code reads from `data` and writes to `results`. It never changes the files in `data/raw`. All
@@ -153,12 +153,11 @@ These three extensions test that. They all use the QCEW and the paper's placebo 
 
 ## Presentation
 
-`presentation/replication_presentation.pptx` is my 10-minute recorded talk. It has 18 slides on the
-course template. They cover the research question, data, method and results. Then they go through
-the replication itself, my extensions, lessons learned and how the paper shapes my project. Every table and chart is a
-real PowerPoint chart or table filled from `results/tables` and not a screenshot. Each slide's notes
-hold that part of the script. `presentation/speaker_script.pdf` has the full script with timings that
-add up to 10 minutes.
+`presentation/replication_presentation.pptx` is my 10-minute recorded talk. It has 13 slides on the
+course template. They cover the question, data, method and results. Then they go through the
+replication, my extensions, what I learned and how the paper shapes my project. Every table and chart
+is a real PowerPoint table or chart filled from `results/tables`. None of them is a screenshot. The
+narration for each slide is in its notes and the whole talk runs 10 minutes.
 
 ## Software
 
